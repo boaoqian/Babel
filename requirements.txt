@@ -1,0 +1,4 @@
+PyYAML==6.0.1
+openai-whisper==20231117
+click==8.1.7
+zhipuai==2.0.1

@@ -1,0 +1,3 @@
+api_key: #get key： https://open.bigmodel.cn/overview
+llm_name: glm-3-turbo
+whisper_name: small
